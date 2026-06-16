@@ -27,3 +27,5 @@ This project analyzes Shopee product sales data using Power BI.
 ## Dashboard Preview
 
 <img width="1912" height="1213" alt="image" src="https://github.com/user-attachments/assets/821e47e8-1098-4245-8c19-d8398de1f86b" />
+<img width="1902" height="828" alt="image" src="https://github.com/user-attachments/assets/ae178785-4ef6-4b4e-8b63-12cfd33095e3" />
+
